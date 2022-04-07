@@ -1,0 +1,3 @@
+name: Khauta Maliehe, Technomath Pty Ltd
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
